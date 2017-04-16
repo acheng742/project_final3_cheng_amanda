@@ -79,12 +79,33 @@ p  {
 }
 
 .info {
-	background-color: #fafafa;
+	background-color: #e8e8e8;
+	margin: auto;
+	text-align: center;
+	padding-top: 2em;
+}
+
+#col-1, #col-3 {
 	display: inline-block;
 }
 
-#menu, #reservation, #location {
+#col-2 {
 	display: inline-block;
+	padding-left: 3em;
+	padding-right: 3em;
+}
+
+section p a {
+	text-decoration: none;
+	color: #333333;
+	border: 2px solid #333333;
+    box-sizing: border-box;
+	padding: 0.5em;
+}
+
+section p a:hover {
+	text-decoration: none;
+	color: #06b1af;
 }
 
 footer {
