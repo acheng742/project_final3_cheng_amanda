@@ -73,6 +73,14 @@ h3 {
 	padding-bottom: 1em;
 }
 
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.45em;
+	padding-top: 1em;
+    color: #404040;
+    text-align: center;
+}
+
 p  {
     font-family: "Roboto", sans-serif;
     font-size: 1em;
@@ -86,11 +94,11 @@ p  {
 	padding: 2em 0;
 }
 
-#col-1, #col-3 {
+.col-1, .col-3 {
 	display: inline-block;
 }
 
-#col-2 {
+.col-2 {
 	display: inline-block;
 	padding-left: 3em;
 	padding-right: 3em;
@@ -121,6 +129,12 @@ section p a {
 section p a:hover {
 	text-decoration: none;
 	color: #06b1af;
+}
+
+.quote {
+	margin: auto;
+	text-align: center;
+	font-style: italic;
 }
 
 #footer-wrapper {
