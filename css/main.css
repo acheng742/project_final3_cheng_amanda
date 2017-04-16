@@ -28,9 +28,31 @@ header {
     height: 200px;
 }
 
+nav {
+	background-color: #f39e7a;
+	text-align: center;
+}
+
+nav li {
+	display: inline-block;
+	margin: auto;
+	padding: 1.5em 2.8em;
+}
+
+nav li a {
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+
+nav li a:hover {
+	color: #b54e23;
+}
+
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 2.2em;
+	padding-top: 1em;
     color: #404040;
     text-align: center;
 }
@@ -38,7 +60,7 @@ h1 {
 h2 {
     font-family: "Pacifico", cursive;
     font-size: 1.75em;
-    padding: 2em 0.5em 0 0.5em;
+    padding: 1em 0.5em 0 0.5em;
     color: #06b1af;
     text-align: center;
 }
@@ -53,8 +75,16 @@ h3 {
 p  {
     font-family: "Roboto", sans-serif;
     font-size: 1em;
-    padding: 2em;
     line-height: 180%;
+}
+
+.info {
+	background-color: #fafafa;
+	display: inline-block;
+}
+
+#menu, #reservation, #location {
+	display: inline-block;
 }
 
 footer {
