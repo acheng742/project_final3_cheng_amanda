@@ -150,7 +150,8 @@ section p a:hover {
 
 @media all and (max-width: 1200px) {
 	p {
-		padding: 30px;
+		padding-left: 30px;
+		padding-right: 30px;
 	}
 }
 
