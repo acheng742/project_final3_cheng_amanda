@@ -88,17 +88,17 @@ p  {
 }
 
 .info {
-	background-color: #fafafa;
+	background-color: #f0efef;
 	margin: auto;
 	text-align: center;
 	padding: 2em 0;
 }
 
-.col-1, .col-3 {
+#col-1, #col-3 {
 	display: inline-block;
 }
 
-.col-2 {
+#col-2 {
 	display: inline-block;
 	padding-left: 3em;
 	padding-right: 3em;
@@ -139,12 +139,19 @@ section p a:hover {
 
 #footer-wrapper {
 	background-color: #f39e7a;
+	margin: auto;
+	text-align: center;
+}
+
+#col-8, #col-9 {
+	display: inline-block;
+	padding: 0 12em 3em 8em;
 }
 
 footer {
     background-color: #eee5cc;
     width: 100%;
-    height: 100px;
+    padding: 2em 0;
 }
 
 footer p {
