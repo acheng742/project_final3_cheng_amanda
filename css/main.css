@@ -150,8 +150,8 @@ section p a:hover {
 
 @media all and (max-width: 1200px) {
 	p {
-		padding-left: 30px;
-		padding-right: 30px;
+		padding-left: 40px;
+		padding-right: 40px;
 	}
 }
 
@@ -167,6 +167,10 @@ section p a:hover {
 		padding-right: 25px;
 	}
 	h2 {
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+	h4 {
 		padding-left: 25px;
 		padding-right: 25px;
 	}
