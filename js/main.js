@@ -26,5 +26,5 @@ customImage.addEventListener( "mouseover", function(){ //listens for mouse over 
 });
 
 customImage.addEventListener( "mouseout", function(){ //listens for mouse out on image
-	customImage.src = "img/ramen.jpg"; //changes image back
+	customImage.src = "img/ramen.jpg"; //changes image back to original
 });
