@@ -1,4 +1,5 @@
-$("#js-rotating").Morphext({ // This plugin allows different phrases to change in between a string
+// This plugin allows different phrases to change in between a string
+$("#js-rotating").Morphext({
     // The [in] animation type.
     animation: "bounceIn",
     // An array of phrases to rotate are created based on this separator
