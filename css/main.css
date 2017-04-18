@@ -189,7 +189,7 @@ section p a:hover {
 
 /* contact page */
 
-#contact-p {
+.contact-p {
 	padding-left: 10em;
 	padding-right: 10em;
 }
