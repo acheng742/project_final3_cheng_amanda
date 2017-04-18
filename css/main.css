@@ -14,7 +14,6 @@ html {
 
 #page {
     margin: 0 auto;
-    padding: 30px 0px;
 }
 
 #logo {
@@ -148,8 +147,9 @@ section p a:hover {
 
 .menu {
 	background-color: #f0efef;
-	margin-top: 1.6em;
+	margin-top: 3.5em;
 	text-align: center;
+	padding-bottom: 2em;
 }
 
 /* media queries */
@@ -165,7 +165,7 @@ section p a:hover {
 	nav li {
 		display: block;
 		margin: 0;
-		padding: 0.75em 1.4em;
+		padding: 0.65em 1.4em;
 	}
 	h1 {
 		margin-top: 4em;
@@ -177,8 +177,12 @@ section p a:hover {
 		padding-right: 1.5em;
 	}
 	h4 {
-		padding-left: 1.5em;
-		padding-right: 1.5em;
+		padding-left: 2em;
+		padding-right: 2em;
+	}
+	.quote {
+		padding-left: 2em;
+		padding-right: 2em;
 	}
 	.col-2 {
 		padding: 0;
@@ -187,9 +191,7 @@ section p a:hover {
 		padding-left: 1.875em;
 		padding-right: 1.875em;
 	}
-	.menu {
-		margin-top: -1em;
-	}
+
 }
 
 @media all and (max-width: 695px) {
