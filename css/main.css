@@ -181,6 +181,9 @@ section p a:hover {
 		padding-left: 0.313em;
 		padding-right: 0.313em;
 	}
+	#col-9 {
+		margin-top: -4.5em
+	}
 	p {
 		padding-left: 1.875em;
 		padding-right: 1.875em;
