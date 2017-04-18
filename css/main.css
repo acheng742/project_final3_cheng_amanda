@@ -8,6 +8,17 @@ html {
     box-sizing: inherit;
 }
 
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
 .site-container {
 	max-width: 1200px;
 }
@@ -32,19 +43,23 @@ nav {
 	text-align: center;
 }
 
-nav li {
+nav ul {
+	margin-top: -0.5em;
+}
+
+nav ul li {
 	display: inline-block;
 	margin: auto;
 	padding: 1.5em 2.8em;
 }
 
-nav li a {
+nav ul li a {
 	color: white;
 	text-decoration: none;
 	text-align: center;
 }
 
-nav li a:hover {
+nav ul li a:hover {
 	color: #b54e23;
 }
 
@@ -176,8 +191,13 @@ section p a:hover {
 	}
 }
 
+@media all and (min-width: 665px) {
+	.menu {
+		margin-top: -0.08em;
+	}
+}
 @media all and (max-width: 625px) {
-	nav li {
+	nav ul li {
 		display: block;
 		margin: 0;
 		padding: 0.65em 1.4em;
