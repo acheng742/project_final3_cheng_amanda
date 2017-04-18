@@ -116,8 +116,8 @@ p  {
 
 #col-4, #col-5, #col-6, #col-7 {
 	display: inline-block;
-	padding-left: 0.5em;
-	padding-right: 0.5em;
+	padding-left: 0.25em;
+	padding-right: 0.25em;
 }
 
 section p a {
@@ -141,7 +141,7 @@ section p a:hover {
 
 #col-8, #col-9 {
 	display: inline-block;
-	padding: 0 8em 3em 8em;
+	padding: 0 5em 3em 5em;
 }
 
 /* menu page */
@@ -155,7 +155,7 @@ section p a:hover {
 /* media queries */
 
 @media all and (min-width: 400px) {
-	p {
+	#intro-text {
 		padding-left: 1.875em;
 		padding-right: 1.875em;
 	}
@@ -183,19 +183,18 @@ section p a:hover {
 	.col-2 {
 		padding: 0;
 	}
-	#col-8, #col-9 {
-		padding-left: 0.313em;
-		padding-right: 0.313em;
-	}
-	#col-9 {
-		margin-top: -4.5em
-	}
-	p {
+	#intro-text {
 		padding-left: 1.875em;
 		padding-right: 1.875em;
 	}
 	.menu {
 		margin-top: -1em;
+	}
+}
+
+@media all and (max-width: 695px) {
+	#col-9 {
+		margin-top: -4.5em
 	}
 }
 
