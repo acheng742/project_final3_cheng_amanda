@@ -234,6 +234,14 @@ section p a:hover {
 		padding-left: 1.875em;
 		padding-right: 1.875em;
 	}
+	.contact-p {
+		padding-left: 5em;
+		padding-right: 5em;
+	}
+	.specials-pics {
+		padding: 2em;
+		width: 100%;
+	}
 }
 
 @media all and (max-width: 695px) {
