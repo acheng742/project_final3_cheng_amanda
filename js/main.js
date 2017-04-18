@@ -10,3 +10,7 @@ $("#js-rotating").Morphext({
         // Called after the entrance animation is executed.
     }
 });
+//This plugin allows images to slide in a carousel
+$(document).ready(function($) {
+			$('.my-slider').unslider();
+		});
