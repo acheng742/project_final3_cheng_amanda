@@ -161,6 +161,12 @@ section p a:hover {
 	padding-bottom: 2em;
 }
 
+/* specials page */
+
+.specials {
+	text-align: center;
+}
+
 /* media queries */
 
 @media all and (min-width: 400px) {
