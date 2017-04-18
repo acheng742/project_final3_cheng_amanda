@@ -87,6 +87,8 @@ p  {
     line-height: 180%;
 }
 
+/* home page */
+
 .info {
 	background-color: #f0efef;
 	margin: auto;
@@ -137,16 +139,20 @@ section p a:hover {
 	font-style: italic;
 }
 
-#footer-wrapper {
-	background-color: #f39e7a;
-	margin: auto;
-	text-align: center;
-}
-
 #col-8, #col-9 {
 	display: inline-block;
 	padding: 0 8em 3em 8em;
 }
+
+/* menu page */
+
+.menu {
+	background-color: #f0efef;
+	margin-top: 1.6em;
+	text-align: center;
+}
+
+/* media queries */
 
 @media all and (min-width: 400px) {
 	p {
@@ -188,6 +194,17 @@ section p a:hover {
 		padding-left: 1.875em;
 		padding-right: 1.875em;
 	}
+	.menu {
+		margin-top: -1em;
+	}
+}
+
+/* footer */
+
+#footer-wrapper {
+	background-color: #f39e7a;
+	margin: auto;
+	text-align: center;
 }
 
 footer {
