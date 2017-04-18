@@ -174,6 +174,9 @@ section p a:hover {
 		padding-left: 1.5em;
 		padding-right: 1.5em;
 	}
+	#col-2 {
+		padding: 0;
+	}
 	#col-8, #col-9 {
 		padding-left: 0.313em;
 		padding-right: 0.313em;
@@ -181,12 +184,6 @@ section p a:hover {
 	p {
 		padding-left: 1.875em;
 		padding-right: 1.875em;
-	}
-}
-
-@media all and (max-width: 800px) {
-	#col-2 {
-		padding: 0;
 	}
 }
 
