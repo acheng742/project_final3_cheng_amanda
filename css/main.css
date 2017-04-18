@@ -44,7 +44,8 @@ nav {
 }
 
 nav ul {
-	margin-top: -0.5em;
+	margin-top: -0.1em;
+	padding-left: 0;
 }
 
 nav ul li {
@@ -170,7 +171,7 @@ section p a:hover {
 
 .menu {
 	background-color: #f0efef;
-	margin-top: 3.5em;
+	margin-top: 3.4em;
 	margin-bottom: -2.2em;
 	text-align: center;
 	padding-bottom: 2em;
@@ -182,6 +183,13 @@ section p a:hover {
 	text-align: center;
 }
 
+/* contact page */
+
+#contact-p {
+	padding-left: 10em;
+	padding-right: 10em;
+}
+
 /* media queries */
 
 @media all and (min-width: 400px) {
@@ -191,18 +199,15 @@ section p a:hover {
 	}
 }
 
-@media all and (min-width: 665px) {
-	.menu {
-		margin-top: -0.08em;
-	}
-}
-@media all and (max-width: 625px) {
+@media all and (max-width: 661px) {
 	nav ul li {
 		display: block;
 		margin: 0;
-		padding: 0.65em 1.4em;
+		padding: 1em 0;
+		text-align: center;
 	}
 	h1 {
+		margin-top: 5.35em;
 		padding-left: 1.5em;
 		padding-right: 1.5em;
 	}
@@ -225,15 +230,18 @@ section p a:hover {
 		padding-left: 1.875em;
 		padding-right: 1.875em;
 	}
-	.menu {
-		margin-top: 9em;
-	}
-
 }
 
 @media all and (max-width: 695px) {
 	#col-9 {
 		margin-top: -4.5em
+	}
+}
+
+@media all and (max-width: 985px) {
+	#contact-p {
+		padding-left: 5em;
+		padding-right: 5em;
 	}
 }
 
