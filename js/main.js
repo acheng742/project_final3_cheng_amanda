@@ -21,11 +21,10 @@ $(document).ready(function($) {
 // Custom JavaScript Code
 
 var customImage = document.getElementById ('custom');
-
-customImage[0].addEventListener( "mouseover", function(){ //listens for mouse over on image
-	customImage[0].src = "img/yum.jpg"; //changea image
+customImage.addEventListener( "mouseover", function(){ //listens for mouse over on image
+	customImage.src = "img/yum.jpg"; //changes image
 });
 
-mainImage[0].addEventListener( "mouseout", function(){ //listens for mouse out on image
-	customImage[0].src = "img/ramen.jpg"; //changea image back
+customImage.addEventListener( "mouseout", function(){ //listens for mouse out on image
+	customImage.src = "img/ramen.jpg"; //changes image back
 });
