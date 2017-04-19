@@ -33,7 +33,7 @@ Link to HTML5 Outliner for each page
 
 ### Custom jQuery
 
-- I did not use any resources outside of class for this code. 
+- I did not use any resources outside of the lectures and my notes on this code.
 
 ### Custom JavaScript
 
