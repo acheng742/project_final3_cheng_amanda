@@ -1,4 +1,5 @@
 //jQuery Codes
+
 $(document).ready(function() {
 	// Custom jQuery code where the element's content changes when the button is clicked
 	$('.next').click(function(){
@@ -12,7 +13,7 @@ $(document).ready(function() {
 	    complete: function () {
 	    }
 	});
-	//This plugin allows images to slide in a carousel
+	// This plugin allows images to slide in a carousel
 	$('.automatic-slider').unslider({
 		autoplay: true
 	});
