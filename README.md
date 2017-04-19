@@ -48,8 +48,8 @@ Link to HTML5 Outliner for each page
 
 ### Custom jQuery
 
-- This custom jQuery code changes and elements content when the button below is clicked. 
+- This custom jQuery code changes the elements content when the button below is clicked. This can be found at the end of the Menu page. It asks, "Does this all look good to you?" The button below says, "Yes" because of course it looks good and tasty! When the button is clicked, the content above changes its text.
 
 ### Custom JavaScript
 
-- This custom JS code allows the image to change once the mouse goes over the image. When the user moves out of the changed image, it reverts back to the original image. It took some trial and error since images were involved (and since I haven't used this events before), but it works! It just takes a few seconds to work after the page loads.
+- This custom JS code allows the image to change once the mouse goes over the image. When the user moves out of the changed image, it reverts back to the original image. It took some trial and error since images were involved (and since I haven't used this events before), but it works! It just takes a few seconds to work after the page loads. This can be found on the Specials page with the ramen image.
