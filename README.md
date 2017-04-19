@@ -11,7 +11,7 @@ Links to W3C validator for each page
 - [Home](https://validator.w3.org/nu/?doc=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Findex.html)
 - [Menu](https://validator.w3.org/nu/?doc=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Fmenu.html)
 - [Specials](https://validator.w3.org/nu/?doc=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Fspecials.html)
-- [contact](https://validator.w3.org/nu/?doc=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Fcontact.html)
+- [Contact](https://validator.w3.org/nu/?doc=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Fcontact.html)
 
 
 Link to HTML5 Outliner for each page
