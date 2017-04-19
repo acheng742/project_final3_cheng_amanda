@@ -8,18 +8,18 @@
 
 Links to W3C validator for each page
 
-- [Home]()
-- [Menu]()
-- [Specials]()
-- [contact]()
+- [Home](https://validator.w3.org/nu/?doc=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Findex.html)
+- [Menu](https://validator.w3.org/nu/?doc=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Fmenu.html)
+- [Specials](https://validator.w3.org/nu/?doc=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Fspecials.html)
+- [contact](https://validator.w3.org/nu/?doc=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Fcontact.html)
 
 
 Link to HTML5 Outliner
 
-- [Home]()
-- [Menu]()
-- [Specials]()
-- [Contact]()
+- [Home](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Findex.html)
+- [Menu](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Fmenu.html)
+- [Specials](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Fspecials.html)
+- [Contact](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Fcontact.html)
 
 # Resources
 

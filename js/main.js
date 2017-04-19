@@ -22,6 +22,7 @@ $(document).ready(function() {
 // Custom JavaScript Code
 
 var customImage = document.getElementById ('custom');
+
 customImage.addEventListener( 'mouseover', function(){ //listens for mouse over on image
 	customImage.src = 'img/yum.jpg'; //changes image
 });
