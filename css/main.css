@@ -194,9 +194,18 @@ section p a:hover {
 
 /* contact page */
 
+.contact {
+	text-align: center;
+}
+
 .contact-p {
 	padding-left: 10em;
 	padding-right: 10em;
+}
+
+.socialmedia {
+	display: inline-block;
+	padding: 1.2em;
 }
 
 /* media queries */
