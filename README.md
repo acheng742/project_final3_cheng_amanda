@@ -48,7 +48,7 @@ Link to HTML5 Outliner for each page
 
 ### Custom jQuery
 
-- 
+- This custom jQuery code changes and elements content when the button below is clicked. 
 
 ### Custom JavaScript
 
