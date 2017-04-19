@@ -104,6 +104,11 @@ h5 {
 	padding-top: 1.5em;
 }
 
+h6  {
+    font-family: "Roboto", sans-serif;
+    font-size: 1.05em;
+}
+
 p  {
     font-family: "Roboto", sans-serif;
     font-size: 1em;
@@ -143,7 +148,7 @@ p  {
 	padding-right: 0.25em;
 }
 
-section p a {
+section h6 a {
 	text-decoration: none;
 	color: #333333;
 	border: 2px solid #333333;
