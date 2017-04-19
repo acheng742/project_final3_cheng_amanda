@@ -14,7 +14,7 @@ Links to W3C validator for each page
 - [contact](https://validator.w3.org/nu/?doc=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Fcontact.html)
 
 
-Link to HTML5 Outliner
+Link to HTML5 Outliner for each page
 
 - [Home](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Findex.html)
 - [Menu](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Facheeeeng.com%2Fproject_final3_cheng_amanda%2Fmenu.html)
